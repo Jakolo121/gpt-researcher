@@ -1,17 +1,17 @@
 {
-  "query": "Is AI in a hype cycle?",
+  "query": "Investigate the use of the Wav2Lip AI audio dubbing techniques, with a primary focus on adapting lip-syncing methods for short video content across multiple languages. The goal is to develop a comprehensive understanding of current technology and identify potential improvements for creating seamless, natural-looking and with individual speaking style dubbed videos in various languages. ", 
   "max_sections": 3,
   "publish_formats": {
-    "markdown": true,
+    "markdown": false,
     "pdf": true,
     "docx": true
   },
   "follow_guidelines": false,
   "model": "gpt-4o",
   "guidelines": [
-    "The report MUST be written in APA format",
+    "The report must provide an overiew of the technical possibilities",
     "Each sub section MUST include supporting sources using hyperlinks. If none exist, erase the sub section or rewrite it to be a part of the previous section",
-    "The report MUST be written in spanish"
+    "The report MUST be written in english"
   ],
   "verbose": true
 }
